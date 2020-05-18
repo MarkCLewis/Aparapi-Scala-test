@@ -1,0 +1,23 @@
+target/
+
+
+# Created by https://www.gitignore.io/api/code,scala,metals
+# Edit at https://www.gitignore.io/?templates=code,scala,metals
+
+### Code ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+### Metals ###
+.metals/
+.bloop/
+
+### Scala ###
+*.class
+*.log
+*.metals
+
+# End of https://www.gitignore.io/api/code,scala,metals
